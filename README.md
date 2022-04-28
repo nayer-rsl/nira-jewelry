@@ -4,3 +4,5 @@ To run this project run the following in the directory:
 ```
 npm i
 ```
+
+![NiraJewelry](https://user-images.githubusercontent.com/90394300/165819727-969b3161-d1a1-4332-bb83-8159e5359fdd.png)
